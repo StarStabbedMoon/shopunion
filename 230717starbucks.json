@@ -1,0 +1,2626 @@
+[
+  {
+    "Address": "4255 Genesee St., Cheektowaga, NY",
+    "Case Number": "03-RC-282139",
+    "Date Filed": "8/30/2021",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "933 Elmwood Avenue, Buffalo, NY",
+    "Case Number": "03-RC-282115",
+    "Date Filed": "8/30/2021",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4770 Transit Road, Depew, New York",
+    "Case Number": "03-RC-285989",
+    "Date Filed": "11/10/2021",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3186 Sheridan Drive, Amherst, NY",
+    "Case Number": "03-RC-285986",
+    "Date Filed": "11/10/2021",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "6807 E. Baseline Road, #102, Suite 100, Mesa, Arizona",
+    "Case Number": "28-RC-286556",
+    "Date Filed": "11/18/2021",
+    "Labor Union": "Chicago & Midwest Regional Joint Board - Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "277 Harvard St., Brookline, MA",
+    "Case Number": "01-RC-287639",
+    "Date Filed": "12/13/2021",
+    "Labor Union": "Chicago & Midwest Regional Joint Board - Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1304 Commonwealth Ave., Allston, MA",
+    "Case Number": "01-RC-287618",
+    "Date Filed": "12/13/2021",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "101 Broadway E, Seattle, WA",
+    "Case Number": "19-RC-287954",
+    "Date Filed": "12/20/2021",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "115 Merchant Drive, Knoxville, Tennessee",
+    "Case Number": "10-RC-288098",
+    "Date Filed": "12/27/2021",
+    "Labor Union": "Chicago & Midwest Regional Joint Board - Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2800 Rock Creek Circle, A1, Superior, Colorado",
+    "Case Number": "27-RC-288318",
+    "Date Filed": "12/30/2021",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2830 Willamette St., Eugene, Oregon",
+    "Case Number": "19-RC-288594",
+    "Date Filed": "1/7/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1374 West 6th Street, Cleveland Ohio",
+    "Case Number": "08-RC-288697",
+    "Date Filed": "1/10/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2264-1 N. Monroe Street, Tallahassee, Florida",
+    "Case Number": "12-RC-288866",
+    "Date Filed": "1/11/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board - Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "800 Denow Road, Pennington, New Jersey",
+    "Case Number": "22-RC-288780",
+    "Date Filed": "1/11/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1174 E 55th St, Chicago, Illinois",
+    "Case Number": "13-RC-288994",
+    "Date Filed": "1/14/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "217 Western Avenue, Boston, MA",
+    "Case Number": "01-RC-289055",
+    "Date Filed": "1/18/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1948 Beacon Street, Brighton, MA",
+    "Case Number": "01-RC-289077",
+    "Date Filed": "1/18/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1222 S. Crismon Road, Mesa, Arizona",
+    "Case Number": "28-RC-289033",
+    "Date Filed": "1/18/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3388 Poplar Ave., Memphis, Tennessee",
+    "Case Number": "15-RC-289150",
+    "Date Filed": "1/19/2022",
+    "Labor Union": "Mid Atlantic Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1209 North Charles Street, Baltimore, Maryland",
+    "Case Number": "05-RC-289214",
+    "Date Filed": "1/20/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "6980 Forest Hill Avenue, Richmond, Virginia",
+    "Case Number": "05-RC-289213",
+    "Date Filed": "1/20/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "11136 Midlothian Turnpike, North Chesterfield, Virginia",
+    "Case Number": "05-RC-289221",
+    "Date Filed": "1/20/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "364 Brookline Avenue, Boston, MA",
+    "Case Number": "01-RC-289350",
+    "Date Filed": "1/21/2022",
+    "Labor Union": "Mid Atlantic Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "75 Mt. Auburn Street, Watertown, MA",
+    "Case Number": "01-RC-289330",
+    "Date Filed": "1/21/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "425 Pike Street, Seattle, Washington",
+    "Case Number": "19-RC-289458",
+    "Date Filed": "1/25/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1801 Howell Mill Road NW, Atlanta, Georgia",
+    "Case Number": "10-RC-289571",
+    "Date Filed": "1/27/2022",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2975 E Colfax Ave., Denver, CO",
+    "Case Number": "27-RC-289608",
+    "Date Filed": "1/27/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "600 S. 9th St, Philadelphia, PA",
+    "Case Number": "04-RC-289746",
+    "Date Filed": "1/28/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "17410 Hall Road, #174, Clinton Township, Michigan",
+    "Case Number": "07-RC-289840",
+    "Date Filed": "1/31/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4585 Washtenaw Avenue, Ann Arbor, Michigan",
+    "Case Number": "07-RC-289821",
+    "Date Filed": "1/31/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2933 SW Cedar Hills Boulevard, Beaverton, Oregon",
+    "Case Number": "19-RC-289812",
+    "Date Filed": "1/31/2022",
+    "Labor Union": "Mid Atlantic Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "16175 SW Walker Road, Beaverton, Oregon",
+    "Case Number": "19-RC-289814",
+    "Date Filed": "1/31/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3625 Broadway, Everett, Washington",
+    "Case Number": "19-RC-289827",
+    "Date Filed": "1/31/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "495 West 7th Avenue, Eugene, Oregon",
+    "Case Number": "19-RC-289815",
+    "Date Filed": "1/31/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1895 Franklin Boulevard, Eugene, Oregon",
+    "Case Number": "19-RC-289816",
+    "Date Filed": "1/31/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "7315 SW Garden Home Road, Portland, Oregon",
+    "Case Number": "19-RC-289854",
+    "Date Filed": "2/1/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "745 Ocean Street, Santa Cruz, CA",
+    "Case Number": "32-RC-289855",
+    "Date Filed": "2/1/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1909 Mission Street, Santa Cruz, CA",
+    "Case Number": "32-RC-289828",
+    "Date Filed": "2/1/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "130 East Seneca Street, Ithaca, New York",
+    "Case Number": "03-RC-289805",
+    "Date Filed": "2/1/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "402 College Avenue, Suite 402, Ithaca, New York",
+    "Case Number": "03-RC-289793",
+    "Date Filed": "2/1/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "722 South Meadow Street, Ithaca, New York",
+    "Case Number": "03-RC-289796",
+    "Date Filed": "2/1/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1394 Mount Hope Avenue, Rochester, New York",
+    "Case Number": "03-RC-289801",
+    "Date Filed": "2/1/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "235 Delaware Avenue, Buffalo, NY",
+    "Case Number": "03-RC-289785",
+    "Date Filed": "2/1/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2750 Monroe Avenue, Rochester, New York",
+    "Case Number": "03-RC-289802",
+    "Date Filed": "2/1/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1900 Market St., Philadelphia, PA",
+    "Case Number": "04-RC-290056",
+    "Date Filed": "2/4/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3401 Walnut St., Philadelphia, PA",
+    "Case Number": "04-RC-290064",
+    "Date Filed": "2/4/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3003 North Delta Highway, Suite 301, Eugene, Oregon",
+    "Case Number": "19-RC-290060",
+    "Date Filed": "2/4/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1395 University Street, Eugene, Oregon",
+    "Case Number": "19-RC-290145",
+    "Date Filed": "2/4/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2639 NW Loop 410, Suite 106, San Antonio, Texas",
+    "Case Number": "16-RC-290302",
+    "Date Filed": "2/8/2022",
+    "Labor Union": "WORKERS UNITED SOUTHWEST REGIONAL JOINT BOARD",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2624 Lake Lansing Road, Lansing, Michigan",
+    "Case Number": "07-RC-290290",
+    "Date Filed": "2/8/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "300 S. Main Street, Ann Arbor, Michigan",
+    "Case Number": "07-RC-290295",
+    "Date Filed": "2/8/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "120 S. Zeeb Road, Ann Arbor, Michigan",
+    "Case Number": "07-RC-290303",
+    "Date Filed": "2/8/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United, affiliated with SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "222 South State Street, Ann Arbor, Michigan",
+    "Case Number": "07-RC-290304",
+    "Date Filed": "2/8/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "",
+    "Case Number": "02-RC-290354",
+    "Date Filed": "2/9/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "8973 Bay Parkway, Brooklyn, NY",
+    "Case Number": "29-RC-290386",
+    "Date Filed": "2/10/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "13-25 Astor Place, New York",
+    "Case Number": "02-RC-290378",
+    "Date Filed": "2/10/2022",
+    "Labor Union": "New York New Jersey Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4765 Liberty Avenue, Pittsburgh, Pennsylvania",
+    "Case Number": "06-RC-290464",
+    "Date Filed": "2/11/2022",
+    "Labor Union": "WORKERS UNITED SOUTHWEST REGIONAL JOINT BOARD",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1017 North Arthur Ashe Boulevard, Richmond, Virginia",
+    "Case Number": "05-RC-290507",
+    "Date Filed": "2/14/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "8 Old Whitmore Ave., Roanoke, Virginia",
+    "Case Number": "10-RC-290521",
+    "Date Filed": "2/14/2022",
+    "Labor Union": "Mid Atlantic Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "300 Snelling Ave S Suite C, St. Paul, Minnesota",
+    "Case Number": "18-RC-290585",
+    "Date Filed": "2/14/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "8880 South Howell Avenue, Oak Creek, Wisconsin",
+    "Case Number": "18-RC-290576",
+    "Date Filed": "2/14/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United affiliated with Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1200 West Main Street Peoria, IL",
+    "Case Number": "25-RC-290625",
+    "Date Filed": "2/14/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "620 Northwest Highway, Cary, IL",
+    "Case Number": "25-RC-290609",
+    "Date Filed": "2/14/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1124 Pike Street, Seattle, Washington",
+    "Case Number": "19-RC-290608",
+    "Date Filed": "2/14/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2059 Huguenot Road, North Chesterfield, Virginia",
+    "Case Number": "05-RC-290510",
+    "Date Filed": "2/14/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "15605 WC Commons Way, Midlothian, Virginia",
+    "Case Number": "05-RC-290518",
+    "Date Filed": "2/14/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3555 West Cary Street, Richmond, Virginia",
+    "Case Number": "05-RC-290586",
+    "Date Filed": "2/15/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1703 W. Tennessee Street, Tallahassee, Florida",
+    "Case Number": "12-RC-290700",
+    "Date Filed": "2/16/2022",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3905 Pelham Road, Greenville, SC",
+    "Case Number": "10-RC-290683",
+    "Date Filed": "2/16/2022",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "11441 San Jose Blvd., Jacksonville, Florida",
+    "Case Number": "12-RC-290746",
+    "Date Filed": "2/16/2022",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4301 Merrick Road, Massapequa, NY",
+    "Case Number": "29-RC-290794",
+    "Date Filed": "2/16/2022",
+    "Labor Union": "New York New Jersey Regional Joint Board Workers United, affiliated with SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "120 Broadway, Cambridge, MA",
+    "Case Number": "01-RC-290851",
+    "Date Filed": "2/17/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1123 NW 63rd Avenue, Oklahoma",
+    "Case Number": "14-RC-290942",
+    "Date Filed": "2/22/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3093 Mayfield Road, Cleveland Heights, Ohio",
+    "Case Number": "08-RC-291055",
+    "Date Filed": "2/22/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "11623 Clifton Boulevard, Cleveland Ohio",
+    "Case Number": "08-RC-291066",
+    "Date Filed": "2/22/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "120 Crossroads Drive, Plover, Wisconsin",
+    "Case Number": "18-RC-291082",
+    "Date Filed": "2/22/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United affiliated with Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1601 Willow Lawn Drive, 700-P, Richmond, Virginia",
+    "Case Number": "05-RC-291103",
+    "Date Filed": "2/23/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1980 San Marco Blvd., Jacksonville, Florida",
+    "Case Number": "12-RC-291207",
+    "Date Filed": "2/24/2022",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "61 9th Ave., New York, NY",
+    "Case Number": "05-RC-291198",
+    "Date Filed": "2/24/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "9999 Holman Road NW, Seattle, Washington",
+    "Case Number": "19-RC-291186",
+    "Date Filed": "2/24/2022",
+    "Labor Union": "Mid Atlantic Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "17405 North 7th Street, Phoenix, Arizona",
+    "Case Number": "28-RC-291280",
+    "Date Filed": "2/25/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1081 Whitehorse Road, Hamilton Township, New Jersey",
+    "Case Number": "22-RC-291263",
+    "Date Filed": "2/25/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "315 Cooper Point Road NW, Unit 101, Olympia, Washington",
+    "Case Number": "19-RC-291290",
+    "Date Filed": "2/25/2022",
+    "Labor Union": "Mid Atlantic Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3110 W. 11th Avenue, Eugene, Oregon",
+    "Case Number": "19-RC-291410",
+    "Date Filed": "2/28/2022",
+    "Labor Union": "Mid Atlantic Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4712 Cedar Ave., Minneapolis, Minnesota",
+    "Case Number": "18-RC-291359",
+    "Date Filed": "2/28/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "10585 West Indian School Road, Avondale, Arizona",
+    "Case Number": "28-RC-291566",
+    "Date Filed": "3/1/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1115 Valley River Drive, Eugene, Oregon",
+    "Case Number": "19-RC-291441",
+    "Date Filed": "3/1/2022",
+    "Labor Union": "Mid Atlantic Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2 Beechwood Road, Summit, New Jersey",
+    "Case Number": "22-RC-291520",
+    "Date Filed": "3/1/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "555 SW Oak Street, Portland, Oregon",
+    "Case Number": "19-RC-291713",
+    "Date Filed": "3/4/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2328 W Burnside Street, #2, Portland, Oregon",
+    "Case Number": "19-RC-291715",
+    "Date Filed": "3/4/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2880 SE Powell Boulevard, Portland, Oregon",
+    "Case Number": "19-RC-291712",
+    "Date Filed": "3/4/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4022 Fifth Avenue, Pittsburgh, Pennsylvania",
+    "Case Number": "06-RC-291724",
+    "Date Filed": "3/4/2022",
+    "Labor Union": "Mid Atlantic Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3400 Civic Center Blvd., Philadelphia, PA",
+    "Case Number": "04-RC-291798",
+    "Date Filed": "3/7/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3390 East 7th Street, Long Beach, California",
+    "Case Number": "21-RC-291847",
+    "Date Filed": "3/7/2022",
+    "Labor Union": "WORKERS UNITED A/W SERVICE EMPLOYEES INTERNATIONAL UNION",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4833 Candlewood Street, Lakewood, California",
+    "Case Number": "21-RC-291844",
+    "Date Filed": "3/7/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1700 W. Nursery Road in Linthicum Heights, Maryland",
+    "Case Number": "05-RC-291899",
+    "Date Filed": "3/8/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3243 Miller Road, Flint, Michigan",
+    "Case Number": "07-RC-291984",
+    "Date Filed": "3/9/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1141 East Grand River Avenue, East Lansing, Michigan",
+    "Case Number": "07-RC-292006",
+    "Date Filed": "3/9/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2480 Burton Street, Southeast, Grand Rapids, Michigan",
+    "Case Number": "07-RC-291974",
+    "Date Filed": "3/9/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United, SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "18710 E 39th St., Independence, MO",
+    "Case Number": "14-RC-292066",
+    "Date Filed": "3/10/2022",
+    "Labor Union": "Worker's United Chicago & Midwest Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "",
+    "Case Number": "27-RC-292032",
+    "Date Filed": "3/10/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "303 16th Street, Suite 100, Denver, CO",
+    "Case Number": "27-RC-292041",
+    "Date Filed": "3/10/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "228 Robert C. Daniel Jr. Pkwy, Augusta, GA",
+    "Case Number": "10-RC-292010",
+    "Date Filed": "3/10/2022",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "504 W. 24th Street, Austin, Texas",
+    "Case Number": "16-RC-292111",
+    "Date Filed": "3/11/2022",
+    "Labor Union": "WORKERS UNITED SOUTHWEST REGIONAL JOINT BOARD",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "525 NE Grand Ave., Portland, Oregon",
+    "Case Number": "19-RC-292093",
+    "Date Filed": "3/11/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "7803 Montvue Center Way, Knoxville, TN",
+    "Case Number": "10-RC-292148",
+    "Date Filed": "3/14/2022",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "5395-5495 Sheridan Drive, Amherst, New York",
+    "Case Number": "03-RC-292127",
+    "Date Filed": "3/14/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "526 East Market Street, Leesburg, Virginia",
+    "Case Number": "05-RC-292280",
+    "Date Filed": "3/14/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "474 Woodward Street, Waban, MA",
+    "Case Number": "01-RC-292142",
+    "Date Filed": "3/14/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "52 Curtiss Pkwy., Miami Springs, Florida",
+    "Case Number": "12-RC-292183",
+    "Date Filed": "3/14/2022",
+    "Labor Union": "Workers United, Southern Regional Joint Board a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3046 Gate House Plaza, Falls Church, VA",
+    "Case Number": "05-RC-292283",
+    "Date Filed": "3/14/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "138 South Central Avenue, Los Angeles, California",
+    "Case Number": "21-RC-292310",
+    "Date Filed": "3/15/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "11302 Euclid Avenue, Cleveland, Ohio",
+    "Case Number": "08-RC-292577",
+    "Date Filed": "3/16/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "200 E. Houston Street, San Antonio, Texas",
+    "Case Number": "16-RC-292335",
+    "Date Filed": "3/16/2022",
+    "Labor Union": "WORKERS UNITED SOUTHWEST REGIONAL JOINT BOARD",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "505 5th Ave. S., Seattle, Washington",
+    "Case Number": "19-RC-292421",
+    "Date Filed": "3/16/2022",
+    "Labor Union": "WORKERS UNITED A/W SERVICE EMPLOYEES INTERNATIONAL UNION",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3009 Millwood Ave., Columbia, South Carolina",
+    "Case Number": "10-RC-292341",
+    "Date Filed": "3/16/2022",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "12911 Factory Lane, Louisville, Kentucky",
+    "Case Number": "09-RC-292370",
+    "Date Filed": "3/16/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "132 NW 23rd St., Oklahoma",
+    "Case Number": "14-RC-292446",
+    "Date Filed": "3/17/2022",
+    "Labor Union": "WORKERS UNITED A/W SERVICE EMPLOYEES INTERNATIONAL UNION",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "30-18 Astoria Blvd, Long Island City, NY",
+    "Case Number": "29-RC-292481",
+    "Date Filed": "3/18/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2344 Eastlake Ave. E, Seattle, Washington",
+    "Case Number": "19-RC-292503",
+    "Date Filed": "3/18/2022",
+    "Labor Union": "WORKERS UNITED A/W SERVICE EMPLOYEES INTERNATIONAL UNION",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "7001 SE Milwaukie Ave., Portland, Oregon",
+    "Case Number": "19-RC-292533",
+    "Date Filed": "3/18/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4400 North Lamar Boulevard, Austin, Texas",
+    "Case Number": "16-RC-292620",
+    "Date Filed": "3/21/2022",
+    "Labor Union": "WORKERS UNITED SOUTHWEST REGIONAL JOINT BOARD",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3704 Silver Lake Rd NE",
+    "Case Number": "18-RC-292716",
+    "Date Filed": "3/22/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4686 Clemson Blvd., Anderson, SC",
+    "Case Number": "10-RC-292644",
+    "Date Filed": "3/22/2022",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "88 E. Broad Street, Columbus, Ohio",
+    "Case Number": "09-RC-292683",
+    "Date Filed": "3/22/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "5835 Leetsdale Drive, Denver, CO",
+    "Case Number": "27-RC-292681",
+    "Date Filed": "3/22/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "627 Tremont Street, Boston, MA",
+    "Case Number": "01-RC-292803",
+    "Date Filed": "3/23/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board - Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "425 Craig Street, Pittsburgh, Pennsylvania",
+    "Case Number": "06-RC-292767",
+    "Date Filed": "3/23/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "7 Market Square, Pittsburgh, Pennsylvania",
+    "Case Number": "06-RC-292760",
+    "Date Filed": "3/23/2022",
+    "Labor Union": "Mid Atlantic Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1570 South Disneyland Drive, Suite 105, Anaheim, California",
+    "Case Number": "21-RC-292951",
+    "Date Filed": "3/24/2022",
+    "Labor Union": "WORKERS UNITED SOUTHWEST REGIONAL JOINT BOARD",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "305 E Mitchell Hammock Rd, Oviedo, Florida",
+    "Case Number": "12-RC-292836",
+    "Date Filed": "3/24/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "131 East Katella Avenue, Unit 10, Anaheim, California",
+    "Case Number": "21-RC-292957",
+    "Date Filed": "3/24/2022",
+    "Labor Union": "WORKERS UNITED SOUTHWEST REGIONAL JOINT BOARD",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1955 41st Avenue, Capitola, CA",
+    "Case Number": "32-RC-292934",
+    "Date Filed": "3/25/2022",
+    "Labor Union": "WORKERS UNITED A/W SERVICE EMPLOYEES INTERNATIONAL UNION",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2101 W Armitage Ave, Chicago, Illinois",
+    "Case Number": "13-RC-293064",
+    "Date Filed": "3/28/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1731 W 23rd Street, Lawrence, KS",
+    "Case Number": "14-RC-293092",
+    "Date Filed": "3/28/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "5300 Capitol Blvd SE, Tumwater, Washington",
+    "Case Number": "19-RC-293041",
+    "Date Filed": "3/28/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "174 Littleton Road, Westford, MA",
+    "Case Number": "01-RC-292964",
+    "Date Filed": "3/28/2022",
+    "Labor Union": "WORKERS UNITED A/W SERVICE EMPLOYEES INTERNATIONAL UNION",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "874 Commonwealth Ave, Brookline, MA",
+    "Case Number": "01-RC-292965",
+    "Date Filed": "3/28/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "11 East Central Street, Worcester, MA",
+    "Case Number": "01-RC-292949",
+    "Date Filed": "3/28/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1600 E Olive Way, Seattle, Washington",
+    "Case Number": "19-RC-293131",
+    "Date Filed": "3/29/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1 E. Main Street, Madison, Wisconsin",
+    "Case Number": "18-RC-293286",
+    "Date Filed": "3/30/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1500 South Lindbergh Blvd., St. Louis, MO",
+    "Case Number": "14-RC-293254",
+    "Date Filed": "3/30/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "12235 N. Center Ave., Portland, Oregon",
+    "Case Number": "19-RC-293238",
+    "Date Filed": "3/30/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1210 Troy Schenectady Road in Latham, New York",
+    "Case Number": "03-RC-293138",
+    "Date Filed": "3/30/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1216 Hampton Ave., St. Louis, MO",
+    "Case Number": "14-RC-293479",
+    "Date Filed": "4/4/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3616 N May Avenue, Oklahoma",
+    "Case Number": "14-RC-293408",
+    "Date Filed": "4/4/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3700 S Kingshighway Boulevard, St. Louis, MO",
+    "Case Number": "14-RC-293441",
+    "Date Filed": "4/4/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "7025 S Highland Dr., Cottonwood Heights, UT",
+    "Case Number": "27-RC-293438",
+    "Date Filed": "4/4/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "443 Boylston Street, Boston, MA",
+    "Case Number": "01-RC-293421",
+    "Date Filed": "4/4/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1400 East Carson Street, Pittsburgh, Pennsylvania",
+    "Case Number": "06-RC-293429",
+    "Date Filed": "4/4/2022",
+    "Labor Union": "Mid Atlantic Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1700 Blowing Rock Road, Boone, NC",
+    "Case Number": "10-RC-293398",
+    "Date Filed": "4/4/2022",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2320 W. University Drive, Denton, Texas",
+    "Case Number": "16-RC-293512",
+    "Date Filed": "4/5/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4465 Centennial Blvd, Colorado Springs, CO",
+    "Case Number": "27-RC-293572",
+    "Date Filed": "4/6/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "563 Baltimore Pike, Bel Air, Maryland",
+    "Case Number": "05-RC-293573",
+    "Date Filed": "4/6/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "450 Thompson Creek Road, Stevensville, Maryland",
+    "Case Number": "05-RC-293590",
+    "Date Filed": "4/6/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "5350 Campbell Boulevard, Nottingham, Maryland",
+    "Case Number": "05-RC-293696",
+    "Date Filed": "4/6/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "16806 Georgia Ave., Olney, Maryland",
+    "Case Number": "05-RC-293687",
+    "Date Filed": "4/6/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1070 W Bryn Mawr Ave., Chicago, Illinois",
+    "Case Number": "13-RC-293654",
+    "Date Filed": "4/7/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "79845 CA-111, La Quinta, California",
+    "Case Number": "21-RC-293884",
+    "Date Filed": "4/11/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "401 Vine Street, Cincinnati, Ohio",
+    "Case Number": "09-RC-293893",
+    "Date Filed": "4/12/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "17101 27th Ave NE, A, Marysville, Washington",
+    "Case Number": "19-RC-293932",
+    "Date Filed": "4/12/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2701 East 3rd Street, Denver, CO",
+    "Case Number": "27-RC-293880",
+    "Date Filed": "4/12/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1449B New Britain Ave, West Hartford, CT",
+    "Case Number": "01-RC-293992",
+    "Date Filed": "4/12/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "5964 N Ridge Ave., Chicago, Illinois",
+    "Case Number": "13-RC-293883",
+    "Date Filed": "4/12/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "340 Oyster Point Road, Newport News, Virginia",
+    "Case Number": "05-RC-293910",
+    "Date Filed": "4/12/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1128 Walnut Street, Philadelphia, Pennsylvania",
+    "Case Number": "04-RC-293959",
+    "Date Filed": "4/13/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3650 Carpenter Road, Ypsilanti, Michigan",
+    "Case Number": "07-RC-293990",
+    "Date Filed": "4/13/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "631 W. Northland Ave., Appleton, Wisconsin",
+    "Case Number": "18-RC-294019",
+    "Date Filed": "4/13/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, Workers United affiliated with Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "21-28 31st Street, Queens, NY",
+    "Case Number": "29-RC-294146",
+    "Date Filed": "4/14/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "164 E Broadway, Bloomington, Minnesota",
+    "Case Number": "18-RC-294052",
+    "Date Filed": "4/14/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "154 North Seventh Street, Brooklyn, NY",
+    "Case Number": "29-RC-294160",
+    "Date Filed": "4/14/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3464 William Penn Highway, Pittsburgh, Pennsylvania",
+    "Case Number": "06-RC-294100",
+    "Date Filed": "4/14/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "914 Old Country Road, Garden City, NY",
+    "Case Number": "29-RC-294141",
+    "Date Filed": "4/14/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "814 Iowa St, Bellingham, Washington",
+    "Case Number": "19-RC-294187",
+    "Date Filed": "4/15/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "126 Rockland Plaza, Nanuet, New York",
+    "Case Number": "02-RC-294088",
+    "Date Filed": "4/15/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "308 20th Street South, Birmingham, AL",
+    "Case Number": "10-RC-294065",
+    "Date Filed": "4/15/2022",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "533 S. State Street, Westerville, Ohio",
+    "Case Number": "09-RC-294225",
+    "Date Filed": "4/18/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3015 Niagara Falls Boulevard, Amherst, New York",
+    "Case Number": "03-RC-294186",
+    "Date Filed": "4/18/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "802-804 East University Boulevard, Tucson, Arizona",
+    "Case Number": "28-RC-294327",
+    "Date Filed": "4/19/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1102 NW Lovejoy St. Portland, OR",
+    "Case Number": "19-RC-294288",
+    "Date Filed": "4/19/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "5932 Penn Circle South, Pittsburgh, Pennsylvania",
+    "Case Number": "06-RC-294253",
+    "Date Filed": "4/19/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "7700 Maple Street, New Orleans, Louisiana",
+    "Case Number": "15-RC-294263",
+    "Date Filed": "4/19/2022",
+    "Labor Union": "WORKERS UNITED A/W SERVICE EMPLOYEES INTERNATIONAL UNION",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "308 West Broadway #1, Gardner, MA",
+    "Case Number": "01-RC-294409",
+    "Date Filed": "4/21/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1475 Western Avenue in Albany, New York",
+    "Case Number": "03-RC-294402",
+    "Date Filed": "4/21/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "922 Meramec Station Road, Valley Park, MO",
+    "Case Number": "14-RC-294493",
+    "Date Filed": "4/22/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2233 E. Burnside Rd., Gresham, Oregon",
+    "Case Number": "19-RC-294563",
+    "Date Filed": "4/22/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "121 Cusick Rd, Alcoa, TN",
+    "Case Number": "10-RC-294680",
+    "Date Filed": "4/26/2022",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4147 University Way NE",
+    "Case Number": "19-RC-294701",
+    "Date Filed": "4/26/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "9660 Transit Road, East Amherst, NY",
+    "Case Number": "03-RC-294786",
+    "Date Filed": "4/28/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "580 Shelburne Road #9, South Burlington, Vermont",
+    "Case Number": "03-RC-294985",
+    "Date Filed": "5/2/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "9610 SE 82nd Avenue, Happy Valley, Oregon",
+    "Case Number": "19-RC-295057",
+    "Date Filed": "5/2/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4000 E Madison St, Seattle, WA",
+    "Case Number": "19-RC-294994",
+    "Date Filed": "5/2/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1544 Piedmont Rd NE",
+    "Case Number": "10-RC-294986",
+    "Date Filed": "5/2/2022",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2280 North Ocean Avenue B, Farmingville, New York",
+    "Case Number": "29-RC-295055",
+    "Date Filed": "5/3/2022",
+    "Labor Union": "WORKERS UNITED A/W SERVICE EMPLOYEES INTERNATIONAL UNION",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3001 North Perryville Road, Rockford, IL",
+    "Case Number": "25-RC-295476",
+    "Date Filed": "5/9/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "655 East 400 South, Salt Lake City, Utah",
+    "Case Number": "27-RC-295440",
+    "Date Filed": "5/9/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4303 Guide Meridian, Bellingham, Washington",
+    "Case Number": "19-RC-295481",
+    "Date Filed": "5/9/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "8008 East Central, Wichita, Kansas",
+    "Case Number": "14-RC-295709",
+    "Date Filed": "5/11/2022",
+    "Labor Union": "Central and Rock Partners Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "6502 Bolsa Avenue, Huntington Beach, California",
+    "Case Number": "21-RC-295771",
+    "Date Filed": "5/12/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "360 Alfred St, Biddeford, ME",
+    "Case Number": "01-RC-295712",
+    "Date Filed": "5/12/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "135 Talcottville Rd, Vernon, CT",
+    "Case Number": "01-RC-295710",
+    "Date Filed": "5/12/2022",
+    "Labor Union": "WORKERS UNITED A/W SERVICE EMPLOYEES INTERNATIONAL UNION",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2540 Greengate Center Circle, Greensburg, PA",
+    "Case Number": "06-RC-295875",
+    "Date Filed": "5/16/2022",
+    "Labor Union": "International Brotherhood of Teamsters, Local Union No. 30",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2 Kelch Drive, Malta, New York",
+    "Case Number": "03-RC-295892",
+    "Date Filed": "5/17/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2489 Lenwood Rd, Barstow, CA",
+    "Case Number": "31-RC-295959",
+    "Date Filed": "5/17/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3241 Figueroa St., Los Angeles, CA",
+    "Case Number": "31-RC-296098",
+    "Date Filed": "5/19/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "5310 Liberty Ave., Pittsburgh, Pennsylvania",
+    "Case Number": "06-RC-296143",
+    "Date Filed": "5/20/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "6066 W. Olympic Blvd., Los Angeles, CA",
+    "Case Number": "31-RC-296439",
+    "Date Filed": "5/24/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "21000 Southbank Street, Sterling, Virginia",
+    "Case Number": "05-RC-296297",
+    "Date Filed": "5/24/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "5331 East Mockingbird Lane #150, Dallas, Texas",
+    "Case Number": "16-RC-296428",
+    "Date Filed": "5/25/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2540 Vestal Pkwy East, Vestal, NY",
+    "Case Number": "03-RC-296460",
+    "Date Filed": "5/26/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3904 Commercial Street SE, Salem, Oregon",
+    "Case Number": "19-RC-296544",
+    "Date Filed": "5/26/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "6075 N. Lincoln Ave., Chicago, IL",
+    "Case Number": "13-RC-296481",
+    "Date Filed": "5/26/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1025 East Main Street, Carbondale, IL",
+    "Case Number": "14-RC-296646",
+    "Date Filed": "5/27/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "8023 Dale Avenue, Richmond Heights, MO",
+    "Case Number": "14-RC-296784",
+    "Date Filed": "5/31/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "401 SW Morrison Street, Portland, Oregon",
+    "Case Number": "19-RC-296755",
+    "Date Filed": "5/31/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "7707 McKnight Road, Pittsburgh, Pennsylvania",
+    "Case Number": "06-RC-296680",
+    "Date Filed": "5/31/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1231 Veterans Parkway, Clarksville, Indiana",
+    "Case Number": "09-RC-296739",
+    "Date Filed": "5/31/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "7201 Market Street, Wilmington, NC",
+    "Case Number": "10-RC-296802",
+    "Date Filed": "6/1/2022",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "12711 Blanco Rd., Unit 1, San Antonio, Texas",
+    "Case Number": "16-RC-296944",
+    "Date Filed": "6/2/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4094 18th Street, San Francisco, California",
+    "Case Number": "20-RC-297117",
+    "Date Filed": "6/6/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "6080 South Macadam Ave., Portland, Oregon",
+    "Case Number": "19-RC-297141",
+    "Date Filed": "6/6/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "721 SW Mount Si Blvd, Unit B, North Bend, Washington",
+    "Case Number": "19-RC-297142",
+    "Date Filed": "6/6/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2224 Shattuck Ave., Berkeley, CA",
+    "Case Number": "32-RC-297553",
+    "Date Filed": "6/14/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "5122 Edina Industrial Blvd, Edina, MN",
+    "Case Number": "18-RC-297566",
+    "Date Filed": "6/14/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "14330 San Pablo Ave A, San Pablo, CA",
+    "Case Number": "32-RC-297724",
+    "Date Filed": "6/16/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "40 South Park Street, Montclair, New Jersey",
+    "Case Number": "22-RC-297792",
+    "Date Filed": "6/16/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3401 Bardstown Road, Louisville, Kentucky",
+    "Case Number": "09-RC-297936",
+    "Date Filed": "6/21/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2305 Fairview Avenue North, Roseville, Minnesota",
+    "Case Number": "18-RC-297917",
+    "Date Filed": "6/21/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, Workers United, affiliated with SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "631 Glenstone Avenue, Springfield, MO",
+    "Case Number": "14-RC-297893",
+    "Date Filed": "6/21/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4655 William Flynn Highway, Pittsburgh, Pennsylvania",
+    "Case Number": "06-RC-297910",
+    "Date Filed": "6/21/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "697 Walnut Avenue, New Braunfels, Texas",
+    "Case Number": "16-RC-298055",
+    "Date Filed": "6/22/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "600 Columbia Turnpike, East Greenbush, New York",
+    "Case Number": "03-RC-297980",
+    "Date Filed": "6/22/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2303 Nott Street East, Niskayuna, New York",
+    "Case Number": "03-RC-297987",
+    "Date Filed": "6/22/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "480 Forest Avenue, Staten Island, New York",
+    "Case Number": "29-RC-298233",
+    "Date Filed": "6/27/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1143 Wantagh Avenue, Wantagh, New York",
+    "Case Number": "29-RC-298246",
+    "Date Filed": "6/27/2022",
+    "Labor Union": "Workers United, an SEIU affiliate",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "309 Clifton Park Center Road, Clifton Park, New York",
+    "Case Number": "03-RC-298672",
+    "Date Filed": "7/5/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1810 Pioneer Pkwy W., Springfield, OR",
+    "Case Number": "19-RC-298772",
+    "Date Filed": "7/6/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4080 Washington Rd., McMurray, PA 15317",
+    "Case Number": "06-RC-298916",
+    "Date Filed": "7/7/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1000 Rio Grande Boulevard NW, Albuquerque, New Mexico",
+    "Case Number": "28-RC-299178",
+    "Date Filed": "7/11/2022",
+    "Labor Union": "Workers United a/w SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1 Crossgates Mall Road, B231, in Albany, New York",
+    "Case Number": "03-RC-299064",
+    "Date Filed": "7/11/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2202 Fredericksburg Road, San Antonio, Texas",
+    "Case Number": "16-RC-299517",
+    "Date Filed": "7/15/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "269 Main Street, Westlake, Ohio",
+    "Case Number": "08-RC-299575",
+    "Date Filed": "7/18/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board Workers United/Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2801 S. Shepard Dr. Houston, Texas",
+    "Case Number": "16-RC-299559",
+    "Date Filed": "7/18/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "5655 Pickard Road, Mount Pleasant, Michigan",
+    "Case Number": "07-RC-299855",
+    "Date Filed": "7/21/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board of Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2430 S. Broadway, Santa Maria, CA",
+    "Case Number": "31-RC-300025",
+    "Date Filed": "7/22/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "6420 Telegraph Road, Bloomfield Township, Michigan",
+    "Case Number": "07-RC-300425",
+    "Date Filed": "7/29/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2604 11th Avenue, Greeley, CO",
+    "Case Number": "27-RC-300862",
+    "Date Filed": "8/5/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3121 Regency Lane, Denison, TX",
+    "Case Number": "16-RC-301056",
+    "Date Filed": "8/9/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2201 South Street, Philadelphia, Pennsylvania",
+    "Case Number": "04-RC-301198",
+    "Date Filed": "8/11/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1429 P Street NW, Washington",
+    "Case Number": "05-RC-301836",
+    "Date Filed": "8/22/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "176 Middle Street, Portland, Maine",
+    "Case Number": "01-RC-301879",
+    "Date Filed": "8/23/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "75-101 Federal Street, Boston, MA",
+    "Case Number": "01-RC-302289",
+    "Date Filed": "8/29/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "7979 Pittsford Victor Road, in Victor, New York",
+    "Case Number": "03-RC-302475",
+    "Date Filed": "9/1/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "62 New Scotland Avenue, Albany, New York",
+    "Case Number": "03-RC-303114",
+    "Date Filed": "9/12/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "71 Washington St., Santa Clara, CA",
+    "Case Number": "32-RC-303284",
+    "Date Filed": "9/12/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3712 Nazareth Rd., Easton, Pennsylvania",
+    "Case Number": "04-RC-303427",
+    "Date Filed": "9/15/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1601 W Irving Park Rd., Chicago, Illinois",
+    "Case Number": "13-RC-303517",
+    "Date Filed": "9/16/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1144 Elliott A venue W., in Seattle, Washington",
+    "Case Number": "19-RC-303680",
+    "Date Filed": "9/19/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "624 N York Street, Elmhurst, Illinois",
+    "Case Number": "13-RC-303877",
+    "Date Filed": "9/22/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "16852 NW Military Hwy, San Antonio, TX",
+    "Case Number": "16-RC-303916",
+    "Date Filed": "9/22/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2200 Clarendon Blvd., Arlington, VA",
+    "Case Number": "05-RC-304319",
+    "Date Filed": "9/29/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "490 N. Broad Street, Philadelphia, Pennsylvania",
+    "Case Number": "04-RC-304399",
+    "Date Filed": "9/30/2022",
+    "Labor Union": "Philadelphia Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3500 Black Forest Drive, #1, Fayetteville, Arkansas",
+    "Case Number": "15-RC-304743",
+    "Date Filed": "10/6/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2230 Main Street, Green Bay, Wisconsin",
+    "Case Number": "18-RC-304934",
+    "Date Filed": "10/11/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United affiliated with Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "222 36th St., Bellingham, WA",
+    "Case Number": "19-RC-305402",
+    "Date Filed": "10/17/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2760 Willow Road, Glenview, Illinois",
+    "Case Number": "13-RC-305812",
+    "Date Filed": "10/24/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2630 MacArthur Road, Whitehall, Pennsylvania",
+    "Case Number": "04-RC-306257",
+    "Date Filed": "10/31/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1784 N. High Street, Columbus, Ohio",
+    "Case Number": "09-RC-306658",
+    "Date Filed": "11/7/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "12330 Crabapple Road, Alpharetta, GA",
+    "Case Number": "10-RC-307050",
+    "Date Filed": "11/14/2022",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1772 S. Rainbow Blvd, Rainbow Express Village, Las Vegas, Nevada",
+    "Case Number": "28-RC-307132",
+    "Date Filed": "11/15/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2400 Baseline Road, Boulder, CO",
+    "Case Number": "27-RC-307323",
+    "Date Filed": "11/17/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "972 Baxter Avenue, Louisville, Kentucky",
+    "Case Number": "09-RC-307565",
+    "Date Filed": "11/21/2022",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "6400 Fannin St, Houston, TX",
+    "Case Number": "16-RC-307849",
+    "Date Filed": "11/28/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "30130 Rock Creek Dr, Kingwood, TX",
+    "Case Number": "16-RC-307934",
+    "Date Filed": "11/29/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "44185 Ashbrook Marketplace Plaza, Ashburn, Virginia",
+    "Case Number": "05-RC-307885",
+    "Date Filed": "11/29/2022",
+    "Labor Union": "Mid-Atlantic Regional Joint Board, Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "10215 SE Stark St., Portland, OR",
+    "Case Number": "19-RC-308209",
+    "Date Filed": "12/2/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "519 Main Street, Evanston, IL",
+    "Case Number": "13-RC-308203",
+    "Date Filed": "12/5/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2117 M.L.K., Blvd., Fayetteville, Arkansas",
+    "Case Number": "15-RC-308256",
+    "Date Filed": "12/5/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "4999 Old Orchard Shopping Center, Skokie, IL",
+    "Case Number": "13-RC-308567",
+    "Date Filed": "12/8/2022",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "18336 Midvale Ave. N., Shoreline, Washington",
+    "Case Number": "19-RC-308646",
+    "Date Filed": "12/9/2022",
+    "Labor Union": "Workers United Labor Union International, affiliated with Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "5871 Long Prairie Road, Flower Mound, Texas",
+    "Case Number": "16-RC-308598",
+    "Date Filed": "12/9/2022",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "301 South Hills Village, Bethel Park, PA",
+    "Case Number": "06-RC-308635",
+    "Date Filed": "12/9/2022",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3820 NY-31, Liverpool, New York",
+    "Case Number": "03-RC-308620",
+    "Date Filed": "12/12/2022",
+    "Labor Union": "Rochester Regional Joint Board, Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "720 SW Broadway, Portland, OR",
+    "Case Number": "19-RC-310429",
+    "Date Filed": "1/17/2023",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2310 Laporte Avenue, Valparaiso, IN",
+    "Case Number": "25-RC-310353",
+    "Date Filed": "1/17/2023",
+    "Labor Union": "Chicago & Midwest Regional Joint Board of Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "839 Sunrise Highway, Lynbrook, New York",
+    "Case Number": "29-RC-310538",
+    "Date Filed": "1/19/2023",
+    "Labor Union": "Workers United, affiliated with Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "13840 W. Camelback Rd., Litchfield Park, AZ",
+    "Case Number": "28-RC-311077",
+    "Date Filed": "1/25/2023",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "7220 West Azure Drive, Tenaya Village Center, Las Vegas, NV",
+    "Case Number": "28-RC-311111",
+    "Date Filed": "1/25/2023",
+    "Labor Union": "Workers United a/w Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1085 W. 5th Avenue, Columbus, Ohio",
+    "Case Number": "09-RC-311046",
+    "Date Filed": "1/27/2023",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2002 NW Stucki Ave., Hillsboro, Oregon",
+    "Case Number": "19-RC-311308",
+    "Date Filed": "1/31/2023",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "901 Market Street, Philadelphia, Pennsylvania",
+    "Case Number": "04-RC-311411",
+    "Date Filed": "2/1/2023",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "116 S. Halsted St., Chicago, Illinois",
+    "Case Number": "13-RC-312119",
+    "Date Filed": "2/14/2023",
+    "Labor Union": "Workers United - Chicago and Midwest Regional Joint Board (SEIU), Local 304",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "630 K Street, Sacramento, California",
+    "Case Number": "20-RC-312434",
+    "Date Filed": "2/17/2023",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1938 Pinnacle Point Way, Knoxville, TN",
+    "Case Number": "10-RC-312421",
+    "Date Filed": "2/17/2023",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "773 N. McQueen Road, Gilbert, Arizona",
+    "Case Number": "28-RC-313148",
+    "Date Filed": "2/21/2023",
+    "Labor Union": "Workers United a/w SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "511 Main Street, Pleasanton, CA",
+    "Case Number": "32-RC-313452",
+    "Date Filed": "3/4/2023",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "512 Walker Ave., Ashland, OR",
+    "Case Number": "19-RC-313564",
+    "Date Filed": "3/6/2023",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "711 Lake St, Oak Park, Illinois",
+    "Case Number": "13-RC-313923",
+    "Date Filed": "3/13/2023",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1742 SW 6th Ave., Portland, OR",
+    "Case Number": "19-RC-314002",
+    "Date Filed": "3/14/2023",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1291 S. Mary Ave., Sunnyvale, CA",
+    "Case Number": "32-RC-313978",
+    "Date Filed": "3/14/2023",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1211 Embarcadero, Oakland, CA",
+    "Case Number": "32-RC-314472",
+    "Date Filed": "3/20/2023",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1703 N. Dixie Highway, Elizabethtown, Kentucky",
+    "Case Number": "09-RC-314592",
+    "Date Filed": "3/22/2023",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "17056 Fort Street, Riverview, Michigan",
+    "Case Number": "07-RC-314627",
+    "Date Filed": "3/22/2023",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United / SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3103 S. 3rd Street, Louisville, Kentucky",
+    "Case Number": "09-RC-314556",
+    "Date Filed": "3/22/2023",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "3350 NE Hwy. 101, Lincoln City, OR",
+    "Case Number": "19-RC-314637",
+    "Date Filed": "3/22/2023",
+    "Labor Union": "Workers United a/w SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2172 Walker Lake Road, Ontario, Ohio",
+    "Case Number": "08-RC-314610",
+    "Date Filed": "3/22/2023",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "14456 Delaware Street, Westminster, CO",
+    "Case Number": "27-RC-314597",
+    "Date Filed": "3/22/2023",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1410 Plaza Way, Suite A, Walla Walla, Washington",
+    "Case Number": "19-RC-314779",
+    "Date Filed": "3/24/2023",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "228 South Clinton Street, Iowa",
+    "Case Number": "18-RC-314910",
+    "Date Filed": "3/27/2023",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "24571 at 2350 South Grand Ave., St. Louis, MO",
+    "Case Number": "14-RC-315026",
+    "Date Filed": "3/29/2023",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United / SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "102 N. Vine Street, Urbana, IL",
+    "Case Number": "25-RC-315461",
+    "Date Filed": "4/4/2023",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "145 Marketplace Blvd, Rochester, NH",
+    "Case Number": "01-RC-315488",
+    "Date Filed": "4/5/2023",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "905 Orpheus Avenue, Suite103, Encinitas, California",
+    "Case Number": "21-RC-316047",
+    "Date Filed": "4/12/2023",
+    "Labor Union": "Workers United a/w SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "2401 W. Wellesley Avenue, Spokane, Washington",
+    "Case Number": "19-RC-316280",
+    "Date Filed": "4/17/2023",
+    "Labor Union": "Workers United Labor Union International, affiliated with Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "601 Poydras Street, New Orleans, LA",
+    "Case Number": "15-RC-316220",
+    "Date Filed": "4/17/2023",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "422 W 500 S, Bountiful, UT",
+    "Case Number": "27-RC-316261",
+    "Date Filed": "4/17/2023",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "661 State Street, Madison, Wisconsin",
+    "Case Number": "18-RC-316426",
+    "Date Filed": "4/19/2023",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United affiliated with Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "81952 US Highway 111, Indio California",
+    "Case Number": "21-RC-316509",
+    "Date Filed": "4/19/2023",
+    "Labor Union": "Workers United",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1908 Memorial Drive, Waycross, Georgia",
+    "Case Number": "12-RC-316652",
+    "Date Filed": "4/21/2023",
+    "Labor Union": "Workers United, Southern Regional Joint Board",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "157 W Garfield Rd., Aurora, OH",
+    "Case Number": "08-RC-317126",
+    "Date Filed": "5/1/2023",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/Service Employees International Union",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "111 The Loop, Elizabethtown, KY",
+    "Case Number": "09-RC-317136",
+    "Date Filed": "5/1/2023",
+    "Labor Union": "Chicago & Midwest Regional Joint Board, an Affiliate of Workers United SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "17180 Royalton Rd., Strongsville, OH",
+    "Case Number": "08-RC-317123",
+    "Date Filed": "5/1/2023",
+    "Labor Union": "",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1734 Sherman Avenue, Evanston, Illinois",
+    "Case Number": "13-RC-317327",
+    "Date Filed": "5/3/2023",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "78 South Kennedy Drive, Carpentersville, IL",
+    "Case Number": "13-RC-317925",
+    "Date Filed": "5/12/2023",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "67 Newtown Road, Danbury, CT",
+    "Case Number": "01-RC-318385",
+    "Date Filed": "5/19/2023",
+    "Labor Union": "Workers United, a/w SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "1709 Preston Road, Suite B, Plano, TX",
+    "Case Number": "16-RC-318553",
+    "Date Filed": "5/22/2023",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "7017 Boat Club Road, Fort Worth, TX",
+    "Case Number": "16-RC-318494",
+    "Date Filed": "5/22/2023",
+    "Labor Union": "WORKERS UNITED",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  },
+  {
+    "Address": "23402 Eureka Road, Taylor, MI",
+    "Case Number": "07-RC-318636",
+    "Date Filed": "5/23/2023",
+    "Labor Union": "Chicago and Midwest Regional Joint Board, Workers United/SEIU",
+    "Name": "Starbucks",
+    "Category": "Coffee"
+  }
+]
